@@ -1,0 +1,14 @@
+C:\Users\bopanna\source\repos\FaciTApp\FaciTApp\FaciTApp\bin\Debug\netstandard2.0\FaciTApp.deps.json
+C:\Users\bopanna\source\repos\FaciTApp\FaciTApp\FaciTApp\bin\Debug\netstandard2.0\FaciTApp.dll
+C:\Users\bopanna\source\repos\FaciTApp\FaciTApp\FaciTApp\obj\Debug\netstandard2.0\FaciTApp.csprojAssemblyReference.cache
+C:\Users\bopanna\source\repos\FaciTApp\FaciTApp\FaciTApp\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\bopanna\source\repos\FaciTApp\FaciTApp\FaciTApp\obj\Debug\netstandard2.0\FaciTApp.csproj.CoreCompileInputs.cache
+C:\Users\bopanna\source\repos\FaciTApp\FaciTApp\FaciTApp\obj\Debug\netstandard2.0\FaciTApp.AssemblyInfoInputs.cache
+C:\Users\bopanna\source\repos\FaciTApp\FaciTApp\FaciTApp\obj\Debug\netstandard2.0\FaciTApp.AssemblyInfo.cs
+C:\Users\bopanna\source\repos\FaciTApp\FaciTApp\FaciTApp\bin\Debug\netstandard2.0\FaciTApp.pdb
+C:\Users\bopanna\source\repos\FaciTApp\FaciTApp\FaciTApp\obj\Debug\netstandard2.0\Pages\HomePage.xaml.g.cs
+C:\Users\bopanna\source\repos\FaciTApp\FaciTApp\FaciTApp\obj\Debug\netstandard2.0\Pages\SignInPage.xaml.g.cs
+C:\Users\bopanna\source\repos\FaciTApp\FaciTApp\FaciTApp\obj\Debug\netstandard2.0\Pages\SignUpPage.xaml.g.cs
+C:\Users\bopanna\source\repos\FaciTApp\FaciTApp\FaciTApp\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\bopanna\source\repos\FaciTApp\FaciTApp\FaciTApp\obj\Debug\netstandard2.0\FaciTApp.dll
+C:\Users\bopanna\source\repos\FaciTApp\FaciTApp\FaciTApp\obj\Debug\netstandard2.0\FaciTApp.pdb
